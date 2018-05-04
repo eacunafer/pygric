@@ -1,5 +1,5 @@
 # pygric
-Se incluye notebooks y powerpoint preparado para un seminario de Python en el GRIC de la UPRM.
+Se incluye notebooks y powerpoint preparados por el Dr. Edgar Acuna para un seminario de Python en el GRIC de la UPRM.
 
 En la primera sesion se hara una introducion a Python haciendo uso de Jupyter Notebooks
 
